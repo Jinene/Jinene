@@ -8,7 +8,6 @@
 ## 🌟 About Me
 - 🛠️ I love building **IoT projects**, **embedded systems**, and **smart devices**.
 - 💡 Passionate about turning ideas into real-world tech solutions.
-- 🎨 Trying to make tech **fun & cute** ✨
 
 ---
 
@@ -26,7 +25,7 @@
 |---------|-------------|
 | [ESP32Cam Streaming](https://github.com/jinene-bensaid/ESP32Cam_Streaming_on_cloud) | Streaming live video to cloud 🐱‍💻 |
 | [Maduino-Zero-4G-LTE](https://github.com/jinene-bensaid/Maduino-Zero-4G-LTE) | IoT device with LTE connectivity 🌐 |
-| [Other Fun Project](#) | Add a cute description here 🎀 |
+
 
 
 ---
