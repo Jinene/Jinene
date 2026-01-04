@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Jinene
 ### 💻 Embedded Software & IoT Engineer | IoT & Robotics Enthusiast 🌸
 
-![Cute Tech GIF](https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif)
+![Cute Robot GIF](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
+
 
 
 ---
