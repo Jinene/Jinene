@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jinene
+### 💻 Embedded Software & IoT Engineer | IoT & Robotics Enthusiast 🌸
 
-<!--
-**Jinene/Jinene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cute Tech GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🛠️ I love building **IoT projects**, **embedded systems**, and **smart devices**.
+- 💡 Passionate about turning ideas into real-world tech solutions.
+- 🎨 Trying to make tech **fun & cute** ✨
+
+---
+
+## 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-green?style=for-the-badge&logo=c%2B%2B)
+![Arduino](https://img.shields.io/badge/Arduino-orange?style=for-the-badge&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-purple?style=for-the-badge)
+![PCB Design](https://img.shields.io/badge/PCB-Design-red?style=for-the-badge)
+
+---
+
+## My Projects
+| Project | Description |
+|---------|-------------|
+| [ESP32Cam Streaming](https://github.com/jinene-bensaid/ESP32Cam_Streaming_on_cloud) | Streaming live video to cloud 🐱‍💻 |
+| [Maduino-Zero-4G-LTE](https://github.com/jinene-bensaid/Maduino-Zero-4G-LTE) | IoT device with LTE connectivity 🌐 |
+| [Other Fun Project](#) | Add a cute description here 🎀 |
+
+
+---
+
+## 📫 Contact Me
+- Email: jinene.bensaid@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jinene-ben-said-970bb8242/
+---
+
+✨ Let's make tech cute and magical! 🌸
