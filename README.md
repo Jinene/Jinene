@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills & Tools
 
-![C#](https://img.shields.io/badge/C#-beige?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-beige?style=for-the-badge&color=F5F5DC)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-green?style=for-the-badge&logo=c%2B%2B)
 ![Arduino](https://img.shields.io/badge/Arduino-orange?style=for-the-badge&logo=arduino)
