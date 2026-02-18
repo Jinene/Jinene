@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Jinene
-### 💻 Technical Support Specialist | SaaS & API | Python, SQL, Docker | Embedded Software & IoT Engineer | IoT & Robotics Enthusiast 🌸
+### 💻 Embedded Software & IoT Engineer | IoT & Robotics Enthusiast 🌸
 
 
 ---
