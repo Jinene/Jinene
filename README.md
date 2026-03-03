@@ -36,4 +36,4 @@
 - LinkedIn: https://www.linkedin.com/in/jinene-ben-said-970bb8242/
 ---
 
-✨ Let's make tech cute and magical! 🌸
+✨ Let's make tech magical! 🌸
