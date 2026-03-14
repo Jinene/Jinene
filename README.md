@@ -34,6 +34,7 @@
 ## 📫 Contact Me
 - Email: jinene.bensaid@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jinene-ben-said-970bb8242/
+
 ---
 
-✨ Let's make tech magical! 🌸
+✨ Let's make tech magical!  🌸
