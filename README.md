@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Jinene
-### 💻 Embedded Software & IoT Engineer | IoT & Robotics Enthusiast 🌸
+### 💻 Embedded Software & IoT Engineer |AI & Robotics Enthusiast 🌸
 
 
 ---
