@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-- 🛠️ I love building **IoT projects**, **embedded systems**, and **smart devices**.
+- 🛠️ I love building **AI, Cybersecurity projects**, **embedded systems**, and **smart devices**.
 - 💡 Passionate about turning ideas into real-world tech solutions.
 
 ---
